@@ -75,9 +75,9 @@
 
 - [x] 3. [Longest Substring Without Repeating Characters](3.longest-substring-without-repeating-characters.js) -- 无重复字符的最长子串
 
-- [] 5. Longest Palindromic Substring -- 最长回文子串
+- [ ] 5. Longest Palindromic Substring -- 最长回文子串
 
-- [] 6. ZigZag Conversion -- Z 字形变换
+- [ ] 6. ZigZag Conversion -- Z 字形变换
 
 - [x] 8. [String to Integer (atoi)](8.string-to-integer-atoi.js) -- 字符串转换整数 (atoi)
 
@@ -89,8 +89,8 @@
 
 ## 困难
 
-- [] 4. Median of Two Sorted Arrays -- 寻找两个有序数组的中位数
+- [ ] 4. Median of Two Sorted Arrays -- 寻找两个有序数组的中位数
 
-- [] 10. Regular Expression Matching -- 正则表达式匹配
+- [ ] 10. Regular Expression Matching -- 正则表达式匹配
 
 ⬆︎ [返回顶部](#题目导航)
