@@ -3,6 +3,7 @@
 ![Algorithm](https://img.shields.io/badge/→-Algorithm-blue.svg) ![LeetCode](https://img.shields.io/badge/→-LeetCode-blue.svg)
 
 > JavaScript 语言
+>
 > Author: Linchengzzz
 
 ## 题目导航
@@ -32,6 +33,10 @@
 - [x] 21. [Merge Two Sorted Lists](21.merge-two-sorted-lists.js) -- 合并两个有序链表
 
 - [x] 26. [Remove Duplicates from Sorted Array](26.remove-duplicates-from-sorted-array.js) -- 有效的括号
+
+- [x] 27. [Remove Element](27.remove-element.js) -- 移除元素
+
+- [x] 35. [Search Insert Position](35.search-insert-position.js) -- 搜索插入位置
 
 - [x] 38. [Count and Say](38.count-and-say.js) -- 报数
 
