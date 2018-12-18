@@ -40,6 +40,8 @@
 
 - [x] 38. [Count and Say](38.count-and-say.js) -- 报数
 
+- [x] 53.[Maximum Subarray](53.maximum-subarray.js) -- 最大子序和
+
 - [x] 66. [Plus One](66.plus-one.js) -- 加一
 
 - [x] 122. [Best Time to Buy and Sell Stock II](122.best-time-to-buy-and-sell-stock-ii.js) -- 买卖股票的最佳时机 II
