@@ -12,7 +12,7 @@
 
 - [中等](#中等) 🤔
 
-- [困难](困年) 👿
+- [困难](#困难) 👿
 
 ## 简单
 
@@ -41,6 +41,8 @@
 - [x] 38. [Count and Say](38.count-and-say.js) -- 报数
 
 - [x] 53.[Maximum Subarray](53.maximum-subarray.js) -- 最大子序和
+
+- [x] 58.[Length of Last Word](58.length-of-last-word.js) -- 最后一个单词的长度
 
 - [x] 66. [Plus One](66.plus-one.js) -- 加一
 
