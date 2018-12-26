@@ -42,10 +42,8 @@ var addBinary = function(a, b) {
         let ret = ~~a[la - 1] + ~~b[lb - 1] + c ;
         c = ret / 2 | 0;
         str = ret % 2 + str;
-        la - 1 && (la --);
-        lb - 1 && (lb --);
+        la - 1 && la --;
+        lb - 1 && lb --;
     }
     return str;
 };
-
-console.log(addBinary("11", "1"));
