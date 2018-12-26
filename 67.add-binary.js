@@ -38,19 +38,13 @@ var addBinary = function(a, b) {
     let lb = b.length;
     let c = 0;
     let str = '';
-    while (la - 1 || lb - 1) {
+    while (la - 1 || lb - 1 || c) {
         let ret = ~~a[la - 1] + ~~b[lb - 1] + c ;
-        if (ret >= 2) {
-            str = ret - 2 + str;
-            c = 1;
-        } else {
-            str = ret + str;
-            c = 0;
-        }
+        c = ret / 2 | 0;
+        str = ret % 2 + str;
         la - 1 && (la --);
         lb - 1 && (lb --);
     }
-    c && (str = c + str);
     return str;
 };
 
