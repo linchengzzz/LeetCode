@@ -46,6 +46,8 @@
 
 - [x] 66. [Plus One](66.plus-one.js) -- 加一
 
+- [x] 67. [Add Binary](67.add-binary.js) -- 二进制求和
+
 - [x] 122. [Best Time to Buy and Sell Stock II](122.best-time-to-buy-and-sell-stock-ii.js) -- 买卖股票的最佳时机 II
 
 - [x] 125. [Valid Palindrome](125.valid-palindrome.js) -- 验证回文串
