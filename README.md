@@ -54,6 +54,8 @@
 
 - [x] 83. [Remove Duplicates from Sorted List](83.remove-duplicates-from-sorted-list.js) -- 删除排序链表中的重复元素
 
+- [ ] 88. [Merge Sorted Array](88.merge-sorted-array.js) -- 合并两个有序数组
+
 - [x] 122. [Best Time to Buy and Sell Stock II](122.best-time-to-buy-and-sell-stock-ii.js) -- 买卖股票的最佳时机 II
 
 - [x] 125. [Valid Palindrome](125.valid-palindrome.js) -- 验证回文串
